@@ -1,0 +1,19 @@
+{
+    "name": "app/card",
+    "description": "Memory",
+    "type": "projet",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jessy Charlet",
+            "email": "Jessycharlet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
